@@ -1,2 +1,2 @@
 # Music-Player-Example
-Ruby gosu müsic player example.
+Ruby gosu music player example.
